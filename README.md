@@ -15,8 +15,8 @@
 ### Data
 - Sources 
   - Climate Policy Initiative (CPI), a top climate finance analysis organization
-        - Full report texts 
-        - Human generated summaries (ground truth)
+    - Full report texts 
+    - Human generated summaries (ground truth)
 - Technique 
   - Web scraping
 
