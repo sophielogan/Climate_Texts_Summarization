@@ -1,3 +1,11 @@
+import pandas as pd 
+import numpy as np
+import matplotlib.pyplot as plt 
+from sklearn.decomposition import PCA
+import seaborn as sns
+import langdetect
+from langdetect import detect
+
 def elim_non_str(df, col): 
   df = df.copy()
   og_shape = df.shape[0]
