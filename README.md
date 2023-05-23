@@ -1,5 +1,3 @@
-# Climate Texts Summarization
-
 ![Poster](https://github.com/sophielogan/Climate_Texts_Summarization/blob/main/Poster.png)
 
 ## Models
