@@ -1,6 +1,6 @@
 # Climate Texts Summarization
 
-![Poster](https://github.com/sophielogan/Climate_Texts_Summarization/edit/main/Poster.jpg)
+![Poster](https://github.com/sophielogan/Climate_Texts_Summarization/blob/main/Poster.jpg)
 
 ## Models
 - Human summaries (ground truth) 
