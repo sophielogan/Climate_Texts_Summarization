@@ -1,5 +1,7 @@
 # Climate Texts Summarization
 
+![Poster]{https://github.com/sophielogan/Climate_Texts_Summarization/edit/main/Sophie_Rod_Project.pdf}
+
 ## Models
 - Human summaries (ground truth) 
 - Distilbart CNN 6-6 
