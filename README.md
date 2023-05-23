@@ -8,9 +8,7 @@
 ## Evaluation Methods 
 - Rouge
 - Bleu 
-- Gleu
-- Meteor
-- Information gain (perplexity)
+- Topic Prevalence (novel metric - developed by authors for this application) 
 
 ### Data
 - Sources 
