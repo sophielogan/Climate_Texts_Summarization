@@ -31,12 +31,13 @@ Meteor: Metric for Evaluation of Translation with Explicit ORdering considers un
 These are different ways of assessing how well the summary captures the most important topics and themes in a text.
 
 ## Data collection 
-Data_collection_pipeline.ipynb
+- Data_collection_pipeline.ipynb
 
 ## Summary models
-
+- Text_Summarization.ipynb
+  
 ## Evaluate models
-Summary_accuracy_calculation_pipeline.ipynb
+- Summary_accuracy_calculation_pipeline.ipynb
 
 ### Custom packages to support each step of the pipeline
 - data_collection.py
