@@ -3,7 +3,7 @@
 # General Context
 Climate finance is an important and complex topic that involves the mobilization and deployment of financial resources to address climate change. Given the complexity and the speed with which the climate crisis must be addressed, having ways to summarize the climate finance landscape is beneficial.  A broad understanding of the different climate financing mechanisms would help policymakers and investors optimize decision making. In 2009, the world committed to $100 billion in climate financing per year at the UN Summit in Copenhagen. Allowing stakeholders to quickly summarize key climate and financial data will help them make informed decisions about how to deploy that capital going forward. 
 
-# High Level Overview of Models, Data and Methods Used
+# High Level Overview of Models, Data & Methods
 ## Models
 - Human summaries (ground truth) 
 - Distilbart CNN 6-6 
