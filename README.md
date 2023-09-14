@@ -36,7 +36,7 @@ These are different ways of assessing how well the summary captures the most imp
 
 # Code Structure
 ## Data collection 
-- Data_collection_pipeline.ipynb
+- '''Data_collection_pipeline.ipynb'''
 
 ## Summary models
 - Summary_model_training_pipeline.ipynb
