@@ -36,18 +36,18 @@ These are different ways of assessing how well the summary captures the most imp
 
 # Code Structure
 ## Data collection 
-- `Data_collection_pipeline.ipynb
+- `Data_collection_pipeline.ipynb`
 
 ## Summary models
-- Summary_model_training_pipeline.ipynb
+- `Summary_model_training_pipeline.ipynb`
   
 ## Evaluate models
-- Summary_accuracy_calculation_pipeline.ipynb
+- `Summary_accuracy_calculation_pipeline.ipynb`
 
 ### Custom packages to support each step of the pipeline
-- data_collection.py
-- data_cleaning.py
-- entity_recognition.py
-- lda_topic_modeling.py
-- summarization_accuracies.py
-- plot.py
+- `data_collection.py`
+- `data_cleaning.py`
+- `entity_recognition.py`
+- `lda_topic_modeling.py`
+- `summarization_accuracies.py`
+- `plot.py`
